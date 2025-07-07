@@ -74,7 +74,7 @@ Hosted project code and assets on GitHub
 📸 App Preview
 A user-friendly web app for entering values and predicting GHG emissions in real time.
 
-<img src="https://user-images.githubusercontent.com/placeholder.png" width="700"/> <!-- Replace with real screenshot -->
+<img src=https://github.com/Sowmyasribairisetti/GHG_Emissions_Prediction_AICTE/issues/1#issue-3208612183 width="700"/>
 
 📎 Links
 🔗 Project GitHub: GHG Emissions Prediction
